@@ -102,4 +102,4 @@ for epoch in range(epochs):
 
 ## Result
 
-
+The RNN model was successfully implemented for stock price prediction.
